@@ -1,0 +1,4 @@
+CONTROLSUITE_INSTALL_ROOT = ../../../
+CONTROLSUITE_IQMATH_ROOT =../../../libs/math/IQmath/v15c
+CONTROLSUITE_F2806x_DEVICE_SUPPORT_ROOT = ../../../device_support/f2806x/v150
+CONTROLSUITE_F2806x_POWERLIB_ROOT = ../../../libs/app_libs/digital_power/f2806x_v3.5
